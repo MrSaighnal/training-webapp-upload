@@ -12,4 +12,13 @@ create uploads folder
 
 give the right permissions
 
-```chmod -r 777 training-webapp-upload/case1/uploads; chmod -r 777 training-webapp-upload/case2/uploads;```
+```chmod 777 training-webapp-upload/case1/uploads; chmod 777 training-webapp-upload/case2/uploads;```
+
+## Case 1
+
+http://localhost/training-webapp-upload/case1
+
+## Case 2 
+
+
+http://localhost/training-webapp-upload/case2
